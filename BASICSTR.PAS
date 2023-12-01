@@ -1,7 +1,7 @@
 { @author: Sylvain Maltais (support@gladir.com)
   @created: 2023
   @website(https://www.gladir.com/CODER/BASICSTRLIB-TP)
-  @abstract(Target: Turbo Pascal 7)
+  @abstract(Target: Turbo Pascal 7, Free Pascal)
 }
 
 Unit BASICSTR;
